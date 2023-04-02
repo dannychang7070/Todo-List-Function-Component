@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "data": [
+        {
+          "id": "003",
+          "note": "Second note",
+          "date": "2023-04-01",
+          "time": "15:12"
+        },
+        {
+          "id": "002",
+          "note": "Test2",
+          "date": "2023-03-25",
+          "time": "12:32"
+        },
+        {
+          "id": "001",
+          "note": "First note",
+          "date": "2023-01-01",
+          "time": "07:23"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
